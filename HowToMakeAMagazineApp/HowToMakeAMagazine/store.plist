@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE1_2011</string>
+		<key>Title</key>
+		<string>January 2011</string>
+		<key>Release date</key>
+		<date>2011-01-05T15:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue1.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine1.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE2_2011</string>
+		<key>Title</key>
+		<string>February 2011</string>
+		<key>Release date</key>
+		<date>2011-02-05T15:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue2.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine2.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE3_2011</string>
+		<key>Title</key>
+		<string>March 2011</string>
+		<key>Release date</key>
+		<date>2011-03-05T15:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue3.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine3.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE4_2011</string>
+		<key>Title</key>
+		<string>April 2011</string>
+		<key>Release date</key>
+		<date>2011-04-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue4.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine4.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE5_2011</string>
+		<key>Title</key>
+		<string>May 2011</string>
+		<key>Release date</key>
+		<date>2011-05-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue5.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine5.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE6_2011</string>
+		<key>Title</key>
+		<string>June 2011</string>
+		<key>Release date</key>
+		<date>2011-06-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue6.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine6.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE7_2011</string>
+		<key>Title</key>
+		<string>July 2011</string>
+		<key>Release date</key>
+		<date>2011-07-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue7.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine7.pdf</string>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<string>ISSUE8_2011</string>
+		<key>Title</key>
+		<string>August 2011</string>
+		<key>Release date</key>
+		<date>2011-08-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue8.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine8.pdf</string>
+	</dict>    	
+	<dict>
+		<key>ID</key>
+		<string>ISSUE9_2011</string>
+		<key>Title</key>
+		<string>September 2011</string>
+		<key>Release date</key>
+		<date>2011-09-05T14:03:07Z</date>
+		<key>Cover URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/issue9.png</string>
+		<key>Free</key>
+		<true/>
+		<key>Download URL</key>
+		<string>http://www.viggiosoft.com/media/data/iosblog/magazine/magazine9.pdf</string>
+	</dict>
+</array>
+</plist>

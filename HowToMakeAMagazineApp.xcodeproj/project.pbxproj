@@ -1,0 +1,360 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		648D67FC146730D50004CAF9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648D67FB146730D50004CAF9 /* UIKit.framework */; };
+		648D67FE146730D50004CAF9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648D67FD146730D50004CAF9 /* Foundation.framework */; };
+		648D6800146730D50004CAF9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648D67FF146730D50004CAF9 /* CoreGraphics.framework */; };
+		648D6806146730D50004CAF9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 648D6804146730D50004CAF9 /* InfoPlist.strings */; };
+		648D6808146730D50004CAF9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D6807146730D50004CAF9 /* main.m */; };
+		648D6827146730F00004CAF9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D6814146730F00004CAF9 /* AppDelegate.m */; };
+		648D6828146730F00004CAF9 /* bottone_leggi.png in Resources */ = {isa = PBXBuildFile; fileRef = 648D6815146730F00004CAF9 /* bottone_leggi.png */; };
+		648D6829146730F00004CAF9 /* CoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D6817146730F00004CAF9 /* CoverView.m */; };
+		648D682A146730F00004CAF9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 648D6818146730F00004CAF9 /* InfoPlist.strings */; };
+		648D682B146730F00004CAF9 /* HowToMakeAMagazineApp-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 648D681A146730F00004CAF9 /* HowToMakeAMagazineApp-Info.plist */; };
+		648D682C146730F00004CAF9 /* Issue.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D681D146730F00004CAF9 /* Issue.m */; };
+		648D682E146730F00004CAF9 /* ShelfViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D6820146730F00004CAF9 /* ShelfViewController.m */; };
+		648D682F146730F00004CAF9 /* ShelfViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 648D6821146730F00004CAF9 /* ShelfViewController.xib */; };
+		648D6830146730F00004CAF9 /* Store.m in Sources */ = {isa = PBXBuildFile; fileRef = 648D6823146730F00004CAF9 /* Store.m */; };
+		648D6831146730F00004CAF9 /* store.plist in Resources */ = {isa = PBXBuildFile; fileRef = 648D6824146730F00004CAF9 /* store.plist */; };
+		648D6832146730F00004CAF9 /* icon72.png in Resources */ = {isa = PBXBuildFile; fileRef = 648D6825146730F00004CAF9 /* icon72.png */; };
+		648D6833146730F00004CAF9 /* nkicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 648D6826146730F00004CAF9 /* nkicon.png */; };
+		648D6837146731430004CAF9 /* icon72.png in Resources */ = {isa = PBXBuildFile; fileRef = 648D6836146731430004CAF9 /* icon72.png */; };
+		648D68391467324B0004CAF9 /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648D68381467324B0004CAF9 /* QuickLook.framework */; };
+		648D683B146732520004CAF9 /* NewsstandKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648D683A146732520004CAF9 /* NewsstandKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		648D67F7146730D50004CAF9 /* HowToMakeAMagazineApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HowToMakeAMagazineApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		648D67FB146730D50004CAF9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		648D67FD146730D50004CAF9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		648D67FF146730D50004CAF9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		648D6805146730D50004CAF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		648D6807146730D50004CAF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		648D6809146730D50004CAF9 /* HowToMakeAMagazineApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HowToMakeAMagazineApp-Prefix.pch"; sourceTree = "<group>"; };
+		648D6813146730F00004CAF9 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		648D6814146730F00004CAF9 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		648D6815146730F00004CAF9 /* bottone_leggi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottone_leggi.png; sourceTree = "<group>"; };
+		648D6816146730F00004CAF9 /* CoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoverView.h; sourceTree = "<group>"; };
+		648D6817146730F00004CAF9 /* CoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoverView.m; sourceTree = "<group>"; };
+		648D6819146730F00004CAF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		648D681A146730F00004CAF9 /* HowToMakeAMagazineApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "HowToMakeAMagazineApp-Info.plist"; sourceTree = "<group>"; };
+		648D681C146730F00004CAF9 /* Issue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Issue.h; sourceTree = "<group>"; };
+		648D681D146730F00004CAF9 /* Issue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Issue.m; sourceTree = "<group>"; };
+		648D681F146730F00004CAF9 /* ShelfViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShelfViewController.h; sourceTree = "<group>"; };
+		648D6820146730F00004CAF9 /* ShelfViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShelfViewController.m; sourceTree = "<group>"; };
+		648D6821146730F00004CAF9 /* ShelfViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ShelfViewController.xib; sourceTree = "<group>"; };
+		648D6822146730F00004CAF9 /* Store.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Store.h; sourceTree = "<group>"; };
+		648D6823146730F00004CAF9 /* Store.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Store.m; sourceTree = "<group>"; };
+		648D6824146730F00004CAF9 /* store.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = store.plist; sourceTree = "<group>"; };
+		648D6825146730F00004CAF9 /* icon72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon72.png; sourceTree = "<group>"; };
+		648D6826146730F00004CAF9 /* nkicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nkicon.png; sourceTree = "<group>"; };
+		648D6836146731430004CAF9 /* icon72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon72.png; sourceTree = "<group>"; };
+		648D68381467324B0004CAF9 /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
+		648D683A146732520004CAF9 /* NewsstandKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NewsstandKit.framework; path = System/Library/Frameworks/NewsstandKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		648D67F4146730D50004CAF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				648D683B146732520004CAF9 /* NewsstandKit.framework in Frameworks */,
+				648D68391467324B0004CAF9 /* QuickLook.framework in Frameworks */,
+				648D67FC146730D50004CAF9 /* UIKit.framework in Frameworks */,
+				648D67FE146730D50004CAF9 /* Foundation.framework in Frameworks */,
+				648D6800146730D50004CAF9 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		648D67EC146730D50004CAF9 = {
+			isa = PBXGroup;
+			children = (
+				648D6836146731430004CAF9 /* icon72.png */,
+				648D6801146730D50004CAF9 /* HowToMakeAMagazineApp */,
+				648D67FA146730D50004CAF9 /* Frameworks */,
+				648D67F8146730D50004CAF9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		648D67F8146730D50004CAF9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				648D67F7146730D50004CAF9 /* HowToMakeAMagazineApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		648D67FA146730D50004CAF9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				648D683A146732520004CAF9 /* NewsstandKit.framework */,
+				648D68381467324B0004CAF9 /* QuickLook.framework */,
+				648D67FB146730D50004CAF9 /* UIKit.framework */,
+				648D67FD146730D50004CAF9 /* Foundation.framework */,
+				648D67FF146730D50004CAF9 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		648D6801146730D50004CAF9 /* HowToMakeAMagazineApp */ = {
+			isa = PBXGroup;
+			children = (
+				648D6835146731160004CAF9 /* Model */,
+				648D6834146731040004CAF9 /* UI */,
+				648D6812146730F00004CAF9 /* HowToMakeAMagazine */,
+				648D6825146730F00004CAF9 /* icon72.png */,
+				648D6826146730F00004CAF9 /* nkicon.png */,
+				648D6802146730D50004CAF9 /* Supporting Files */,
+			);
+			path = HowToMakeAMagazineApp;
+			sourceTree = "<group>";
+		};
+		648D6802146730D50004CAF9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				648D681A146730F00004CAF9 /* HowToMakeAMagazineApp-Info.plist */,
+				648D6804146730D50004CAF9 /* InfoPlist.strings */,
+				648D6807146730D50004CAF9 /* main.m */,
+				648D6809146730D50004CAF9 /* HowToMakeAMagazineApp-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		648D6812146730F00004CAF9 /* HowToMakeAMagazine */ = {
+			isa = PBXGroup;
+			children = (
+				648D6813146730F00004CAF9 /* AppDelegate.h */,
+				648D6814146730F00004CAF9 /* AppDelegate.m */,
+				648D6818146730F00004CAF9 /* InfoPlist.strings */,
+				648D6824146730F00004CAF9 /* store.plist */,
+			);
+			path = HowToMakeAMagazine;
+			sourceTree = "<group>";
+		};
+		648D6834146731040004CAF9 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				648D6815146730F00004CAF9 /* bottone_leggi.png */,
+				648D6816146730F00004CAF9 /* CoverView.h */,
+				648D6817146730F00004CAF9 /* CoverView.m */,
+				648D681F146730F00004CAF9 /* ShelfViewController.h */,
+				648D6820146730F00004CAF9 /* ShelfViewController.m */,
+				648D6821146730F00004CAF9 /* ShelfViewController.xib */,
+			);
+			name = UI;
+			path = HowToMakeAMagazine;
+			sourceTree = "<group>";
+		};
+		648D6835146731160004CAF9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				648D681C146730F00004CAF9 /* Issue.h */,
+				648D681D146730F00004CAF9 /* Issue.m */,
+				648D6822146730F00004CAF9 /* Store.h */,
+				648D6823146730F00004CAF9 /* Store.m */,
+			);
+			name = Model;
+			path = HowToMakeAMagazine;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		648D67F6146730D50004CAF9 /* HowToMakeAMagazineApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 648D680F146730D50004CAF9 /* Build configuration list for PBXNativeTarget "HowToMakeAMagazineApp" */;
+			buildPhases = (
+				648D67F3146730D50004CAF9 /* Sources */,
+				648D67F4146730D50004CAF9 /* Frameworks */,
+				648D67F5146730D50004CAF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HowToMakeAMagazineApp;
+			productName = HowToMakeAMagazineApp;
+			productReference = 648D67F7146730D50004CAF9 /* HowToMakeAMagazineApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		648D67EE146730D50004CAF9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = viggiosoft;
+			};
+			buildConfigurationList = 648D67F1146730D50004CAF9 /* Build configuration list for PBXProject "HowToMakeAMagazineApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 648D67EC146730D50004CAF9;
+			productRefGroup = 648D67F8146730D50004CAF9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				648D67F6146730D50004CAF9 /* HowToMakeAMagazineApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		648D67F5146730D50004CAF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				648D6806146730D50004CAF9 /* InfoPlist.strings in Resources */,
+				648D6828146730F00004CAF9 /* bottone_leggi.png in Resources */,
+				648D682A146730F00004CAF9 /* InfoPlist.strings in Resources */,
+				648D682B146730F00004CAF9 /* HowToMakeAMagazineApp-Info.plist in Resources */,
+				648D682F146730F00004CAF9 /* ShelfViewController.xib in Resources */,
+				648D6831146730F00004CAF9 /* store.plist in Resources */,
+				648D6832146730F00004CAF9 /* icon72.png in Resources */,
+				648D6833146730F00004CAF9 /* nkicon.png in Resources */,
+				648D6837146731430004CAF9 /* icon72.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		648D67F3146730D50004CAF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				648D6808146730D50004CAF9 /* main.m in Sources */,
+				648D6827146730F00004CAF9 /* AppDelegate.m in Sources */,
+				648D6829146730F00004CAF9 /* CoverView.m in Sources */,
+				648D682C146730F00004CAF9 /* Issue.m in Sources */,
+				648D682E146730F00004CAF9 /* ShelfViewController.m in Sources */,
+				648D6830146730F00004CAF9 /* Store.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		648D6804146730D50004CAF9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				648D6805146730D50004CAF9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		648D6818146730F00004CAF9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				648D6819146730F00004CAF9 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		648D680D146730D50004CAF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		648D680E146730D50004CAF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		648D6810146730D50004CAF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HowToMakeAMagazineApp/HowToMakeAMagazineApp-Prefix.pch";
+				INFOPLIST_FILE = "HowToMakeAMagazineApp/HowToMakeAMagazineApp-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		648D6811146730D50004CAF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HowToMakeAMagazineApp/HowToMakeAMagazineApp-Prefix.pch";
+				INFOPLIST_FILE = "HowToMakeAMagazineApp/HowToMakeAMagazineApp-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		648D67F1146730D50004CAF9 /* Build configuration list for PBXProject "HowToMakeAMagazineApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				648D680D146730D50004CAF9 /* Debug */,
+				648D680E146730D50004CAF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		648D680F146730D50004CAF9 /* Build configuration list for PBXNativeTarget "HowToMakeAMagazineApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				648D6810146730D50004CAF9 /* Debug */,
+				648D6811146730D50004CAF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 648D67EE146730D50004CAF9 /* Project object */;
+}
